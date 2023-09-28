@@ -23,7 +23,10 @@ let strState
 let intZipCode
 let intYourAge = 3
 let strReferralSource 
-let blnMayWeContactYou = True
+let blnMayWeContactYou = true
 
+//Step 6
+let coercedResult = strFirstName + " " + intYourAge
+console.log(coercedResult)
 
 
