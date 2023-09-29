@@ -60,15 +60,50 @@ console.log(typeof(undefVar)) //undefined
 //alert("Hello" + " Nghi" + ", " + "welcome to JavaScript class!")
 
 //step 12
-let name = "Nghi"
+//let name = "Nghi"
 //alert("Hello " + name + ", " + "welcome to JavaScript class!")
 
 //step 13
-let course = "Javascript"
+//let course = "Javascript"
 //alert("Hello " + name + ", " + "welcome to " + course + " class!")
 
 //step 14
-alert("\nHello " + name + "." + "\nWelcome to " + course + " class!")
+//alert("\nHello " + name + "." + "\nWelcome to " + course + " class!")
+
+//step 15 + step 16
+//let name = prompt("What is your name?")
+//let course = prompt("What class are you taking?")
+//alert("\nHello " + name + "." + "\nWelcome to " + course + " class!")
+
+//step 17
+//let x = 10
+//let y = 20
+//console.log(x + y)
+
+//step 18 
+//let x = 20 
+//x = x + 20
+//console.log(x)
+
+//step 19 
+//let x = 20
+//x = x * 5
+//console.log(x)
+
+//step 20
+let x = 20 % 3
+x = x/1
+console.log(x)
+
+//step 21
+let trueVar = ((1 || 0)  == true)
+console.log(trueVar)
+
+//Step 22
+let falseVar = ((0 && 10) != 0)
+console.log(falseVar)
+
+
 
 
 
