@@ -26,7 +26,13 @@ let strReferralSource
 let blnMayWeContactYou = true
 
 //Step 6
-let coercedResult = strFirstName + " " + intYourAge
-console.log(coercedResult)
+let coercedResult = strFirstName + " " + intYourAge //create variable
+console.log(coercedResult) //display 
+
+//step 7
+let boolStr = true + " Hello"
+console.log(boolStr)
+let numBool = 3 + false 
+console.log(numBool)
 
 
