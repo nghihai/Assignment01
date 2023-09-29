@@ -57,7 +57,24 @@ console.log(typeof(classInfo)) //object
 console.log(typeof(undefVar)) //undefined
 
 //step 11
-alert("Hello" + " Nghi" + ", " + "welcome to JavaScript class!")
+//alert("Hello" + " Nghi" + ", " + "welcome to JavaScript class!")
+
+//step 12
+let name = "Nghi"
+//alert("Hello " + name + ", " + "welcome to JavaScript class!")
+
+//step 13
+let course = "Javascript"
+//alert("Hello " + name + ", " + "welcome to " + course + " class!")
+
+//step 14
+alert("\nHello " + name + "." + "\nWelcome to " + course + " class!")
+
+
+
+
+
+
 
 
 
